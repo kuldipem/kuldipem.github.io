@@ -1,23 +1,23 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: "Jalpc"
-description: "Jack's blog,use Jekyll and github pages."
-keywords: "Jack,Jalpc,blog,Jekyll,github,gh-pages"
+title: "Kuldip Pipaliya"
+description: "Kuldip Pipaliya's blog,use Jekyll and github pages."
+keywords: "kuldip,pipaliya,india,vedhaslabs,developer,github,gh-pages"
 baseurl: "/"
-url: "http://www.jack003.com"
+url: "http://kuldipem.github.io"
 # url: "http://127.0.0.1:4000"
 
 # author
 author:
-  name: 'Jack'
-  first_name: 'Jia'
-  last_name: 'Kun'
-  email: 'me@jack003.com'
-  facebook_username: 'jiakunnj'
-  github_username: 'Jack614'
-  head_img: 'static/img/landing/Jack.jpg'
-  desc: 'I am a Python engineer with website development, automation Ops and writing scripts experience. Life is a continuous learning process, so work makes me more rigorous, travel makes my life more colorful. I can make lots of friends when I coding and travel.'
+  name: 'kuldipem'
+  first_name: 'Kuldip'
+  last_name: 'Pipaliya'
+  email: 'kuldipem@gmail.com'
+  facebook_username: 'PIPALIYA.KULDIP'
+  github_username: 'kuldipem'
+  head_img: 'static/img/landing/kuldipem.jpeg'
+  desc: 'I am a PHP engineer with website development, automation Ops and writing scripts experience. Life is a continuous learning process, so work makes me more rigorous, travel makes my life more colorful. I can make lots of friends when I coding and travel.'
 
 # sections
 sections:
@@ -61,8 +61,8 @@ sections:
 languages:
   - locale: 'en'
     flag: 'static/img/flags/United-States.png'
-  - locale: 'zh'
-    flag: 'static/img/flags/China.png'
+  - locale: 'hi'
+    flag: 'static/img/flags/India.png'
 
 # blog img path
 img_path: 'http://www.jack003.com/static/img/blog'
