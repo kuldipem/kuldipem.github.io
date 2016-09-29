@@ -1,0 +1,20 @@
+- name: PHP
+  percentage: 90
+
+- name: HTML/CSS
+  percentage: 85
+
+- name: Linux/Shell
+  percentage: 75
+
+- name: jQuery
+  percentage: 70
+
+- name: AngularJS
+  percentage: 80
+
+- name: NodeJS
+  percentage: 65
+
+- name: Symfony2
+  percentage: 65
